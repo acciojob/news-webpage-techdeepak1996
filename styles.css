@@ -1,1 +1,60 @@
-/*  your css code here. If applicable */
+body{
+ background-color : #f5f5f5;
+}
+
+.header{
+	background-color: #011e29;
+	color:#fff;
+	display:flex;
+	font-weight:bold;
+	justify-content:center;
+	padding:15px;
+}
+
+.container{
+	display:flex;
+	gap:5px;
+}
+
+img{
+	width:80px
+}
+
+.main-news-section{
+	
+}
+
+.latest-news-section{
+	width:800px;
+	background-color:#fff;
+	border-radius:10px;
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	padding:10px
+}
+
+.main-news-section{
+	width:800px;
+	background-color:#fff;
+	border-radius:10px
+	display:flex;
+	flex-direction:column;
+	gap:10px;
+	justify-content:center;
+	align-items:center;
+	padding:10px
+}
+
+.pictorial-news-section{
+	width:800px;
+	background-color:#fff;
+	border-radius:10px;
+	display:flex;
+	flex-direction:column;
+	gap:10px;
+	justify-content:center;
+	align-items:center;
+	padding:10px
+}
